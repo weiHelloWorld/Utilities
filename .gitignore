@@ -1,0 +1,9 @@
+*.txt
+temp*
+*.db
+*.csv
+*.ipynb
+Untitled*
+*.pyc
+.idea/**
+
